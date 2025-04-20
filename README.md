@@ -2,7 +2,6 @@
 🎬 Movie Recommendation System – Your Personal Cinema Guide
 
 ==================================================================
-
 📌 Project Description:
 -----------------------
 This AI-powered Movie Recommendation System helps users discover movies based on their preferences. Using content-based filtering and cosine similarity, the system recommends movies that are similar to a user’s favorite movie. It offers an interactive web interface built with Flask and HTML/CSS.
